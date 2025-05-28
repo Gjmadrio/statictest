@@ -29,7 +29,7 @@ nav ul li a:hover {
 }
 
 .banner {
-    background-image: url('https://via.placeholder.com/1200x400');
+    background-image: url('/wp-content/uploads/2023/03/mylogo.jpg');
     background-size: cover;
     background-position: center;
     color: white;
