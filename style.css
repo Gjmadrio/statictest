@@ -29,9 +29,10 @@ nav ul li a:hover {
 }
 
 .banner {
-    background-image: url('/wp-content/uploads/2023/03/mylogo.jpg');
+    background-image: url('/wp-content/uploads/2023/03/jane.jpg');
     background-size: cover;
     background-position: center;
+    filter: grayscale(1);
     color: black;
     padding: 100px 20px;
 }
